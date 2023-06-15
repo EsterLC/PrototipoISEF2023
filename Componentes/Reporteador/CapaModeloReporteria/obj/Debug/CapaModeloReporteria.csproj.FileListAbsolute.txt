@@ -1,0 +1,12 @@
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\proyectois2k23\Codigo\Componentes\Reporteador\CapaModeloReporteria\bin\Debug\CapaModeloReporteria.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\proyectois2k23\Codigo\Componentes\Reporteador\CapaModeloReporteria\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\proyectois2k23\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.csproj.AssemblyReference.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\proyectois2k23\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.csproj.CoreCompileInputs.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\proyectois2k23\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\proyectois2k23\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\Componentes\Reporteador\CapaModeloReporteria\bin\Debug\CapaModeloReporteria.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\Componentes\Reporteador\CapaModeloReporteria\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.csproj.AssemblyReference.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.csproj.CoreCompileInputs.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.pdb
