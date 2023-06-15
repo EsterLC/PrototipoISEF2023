@@ -1,0 +1,12 @@
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Modelo\bin\Debug\Capa_Modelo.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Modelo\bin\Debug\Capa_Modelo.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_ModeloConsultas.csproj.AssemblyReference.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_ModeloConsultas.csproj.CoreCompileInputs.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\proyectois2k23\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\Componentes\Consultas\Capa_Modelo\bin\Debug\Capa_Modelo.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\Componentes\Consultas\Capa_Modelo\bin\Debug\Capa_Modelo.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_ModeloConsultas.csproj.AssemblyReference.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_ModeloConsultas.csproj.CoreCompileInputs.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.pdb

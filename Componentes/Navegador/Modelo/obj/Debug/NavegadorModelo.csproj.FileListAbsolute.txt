@@ -1,0 +1,14 @@
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\proyectois2k23\Codigo\Componentes\Navegador\Modelo\bin\Debug\NavegadorModelo.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\proyectois2k23\Codigo\Componentes\Navegador\Modelo\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\proyectois2k23\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.AssemblyReference.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\proyectois2k23\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.CoreCompileInputs.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\proyectois2k23\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.CopyComplete
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\proyectois2k23\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\proyectois2k23\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\Componentes\Navegador\Modelo\bin\Debug\NavegadorModelo.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\Componentes\Navegador\Modelo\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.AssemblyReference.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.CoreCompileInputs.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.CopyComplete
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.pdb

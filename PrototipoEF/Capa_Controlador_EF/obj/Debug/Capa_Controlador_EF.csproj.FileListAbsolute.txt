@@ -1,0 +1,27 @@
+C:\Users\ester\OneDrive\Escritorio\PrototipoEF\PrototipoEF\Codigo\PrototipoEF\Capa_Controlador_EF\bin\Debug\Capa_Controlador_EF.dll
+C:\Users\ester\OneDrive\Escritorio\PrototipoEF\PrototipoEF\Codigo\PrototipoEF\Capa_Controlador_EF\bin\Debug\Capa_Controlador_EF.pdb
+C:\Users\ester\OneDrive\Escritorio\PrototipoEF\PrototipoEF\Codigo\PrototipoEF\Capa_Controlador_EF\obj\Debug\Capa_Controlador_EF.csproj.AssemblyReference.cache
+C:\Users\ester\OneDrive\Escritorio\PrototipoEF\PrototipoEF\Codigo\PrototipoEF\Capa_Controlador_EF\obj\Debug\Capa_Controlador_EF.csproj.CoreCompileInputs.cache
+C:\Users\ester\OneDrive\Escritorio\PrototipoEF\PrototipoEF\Codigo\PrototipoEF\Capa_Controlador_EF\obj\Debug\Capa_Controlador_EF.dll
+C:\Users\ester\OneDrive\Escritorio\PrototipoEF\PrototipoEF\Codigo\PrototipoEF\Capa_Controlador_EF\obj\Debug\Capa_Controlador_EF.pdb
+C:\Users\ester\OneDrive\Escritorio\PrototipoEF\PrototipoEF\Codigo\PrototipoEF\Capa_Controlador_EF\bin\Debug\Capa_Modelo_EF.dll
+C:\Users\ester\OneDrive\Escritorio\PrototipoEF\PrototipoEF\Codigo\PrototipoEF\Capa_Controlador_EF\bin\Debug\Capa_Modelo_EF.pdb
+C:\Users\ester\OneDrive\Escritorio\PrototipoEF\PrototipoEF\Codigo\PrototipoEF\Capa_Controlador_EF\obj\Debug\Capa_Controlador_EF.csproj.CopyComplete
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoEF\Codigo\PrototipoEF\Capa_Controlador_EF\bin\Debug\Capa_Controlador_EF.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoEF\Codigo\PrototipoEF\Capa_Controlador_EF\bin\Debug\Capa_Controlador_EF.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoEF\Codigo\PrototipoEF\Capa_Controlador_EF\bin\Debug\Capa_Modelo_EF.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoEF\Codigo\PrototipoEF\Capa_Controlador_EF\bin\Debug\Capa_Modelo_EF.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoEF\Codigo\PrototipoEF\Capa_Controlador_EF\obj\Debug\Capa_Controlador_EF.csproj.AssemblyReference.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoEF\Codigo\PrototipoEF\Capa_Controlador_EF\obj\Debug\Capa_Controlador_EF.csproj.CoreCompileInputs.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoEF\Codigo\PrototipoEF\Capa_Controlador_EF\obj\Debug\Capa_Controlador_EF.csproj.CopyComplete
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoEF\Codigo\PrototipoEF\Capa_Controlador_EF\obj\Debug\Capa_Controlador_EF.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoEF\Codigo\PrototipoEF\Capa_Controlador_EF\obj\Debug\Capa_Controlador_EF.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\PrototipoEF\Capa_Controlador_EF\bin\Debug\Capa_Controlador_EF.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\PrototipoEF\Capa_Controlador_EF\bin\Debug\Capa_Controlador_EF.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\PrototipoEF\Capa_Controlador_EF\bin\Debug\Capa_Modelo_EF.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\PrototipoEF\Capa_Controlador_EF\bin\Debug\Capa_Modelo_EF.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\PrototipoEF\Capa_Controlador_EF\obj\Debug\Capa_Controlador_EF.csproj.AssemblyReference.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\PrototipoEF\Capa_Controlador_EF\obj\Debug\Capa_Controlador_EF.csproj.CoreCompileInputs.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\PrototipoEF\Capa_Controlador_EF\obj\Debug\Capa_Controlador_EF.csproj.CopyComplete
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\PrototipoEF\Capa_Controlador_EF\obj\Debug\Capa_Controlador_EF.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\PrototipoEF\Capa_Controlador_EF\obj\Debug\Capa_Controlador_EF.pdb

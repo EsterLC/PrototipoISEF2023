@@ -1,0 +1,6 @@
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Modelo\bin\Debug\Modelo_Seguridad.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Modelo\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.csproj.AssemblyReference.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.pdb

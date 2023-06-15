@@ -1,0 +1,12 @@
+C:\Users\ester\OneDrive\Escritorio\PrototipoEF\PrototipoEF\Codigo\PrototipoEF\Capa_Modelo_EF\bin\Debug\Capa_Modelo_EF.dll
+C:\Users\ester\OneDrive\Escritorio\PrototipoEF\PrototipoEF\Codigo\PrototipoEF\Capa_Modelo_EF\bin\Debug\Capa_Modelo_EF.pdb
+C:\Users\ester\OneDrive\Escritorio\PrototipoEF\PrototipoEF\Codigo\PrototipoEF\Capa_Modelo_EF\obj\Debug\Capa_Modelo_EF.csproj.AssemblyReference.cache
+C:\Users\ester\OneDrive\Escritorio\PrototipoEF\PrototipoEF\Codigo\PrototipoEF\Capa_Modelo_EF\obj\Debug\Capa_Modelo_EF.csproj.CoreCompileInputs.cache
+C:\Users\ester\OneDrive\Escritorio\PrototipoEF\PrototipoEF\Codigo\PrototipoEF\Capa_Modelo_EF\obj\Debug\Capa_Modelo_EF.dll
+C:\Users\ester\OneDrive\Escritorio\PrototipoEF\PrototipoEF\Codigo\PrototipoEF\Capa_Modelo_EF\obj\Debug\Capa_Modelo_EF.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\PrototipoEF\Capa_Modelo_EF\bin\Debug\Capa_Modelo_EF.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\PrototipoEF\Capa_Modelo_EF\bin\Debug\Capa_Modelo_EF.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\PrototipoEF\Capa_Modelo_EF\obj\Debug\Capa_Modelo_EF.csproj.AssemblyReference.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\PrototipoEF\Capa_Modelo_EF\obj\Debug\Capa_Modelo_EF.csproj.CoreCompileInputs.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\PrototipoEF\Capa_Modelo_EF\obj\Debug\Capa_Modelo_EF.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Noveno Semestre\Software\PrototipoISEF2023\PrototipoEF\Capa_Modelo_EF\obj\Debug\Capa_Modelo_EF.pdb
